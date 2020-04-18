@@ -9,9 +9,9 @@ You too may help make these notes better by submitting your improvements to us v
 
 This course starts by introducing probabilistic graphical models from the very basics and concludes by explaining from first principles the [variational auto-encoder](extras/vae), an important probabilistic model that is also one of the most influential recent results in deep learning.
 
-## Preliminaries
+## Essays
 
-1. [Introduction](preliminaries/introduction/): What is probabilistic graphical modeling? Overview of the course.
+1. [High Leverage House-Keeping](preliminaries/introduction/): What is probabilistic graphical modeling? Overview of the course.
 
 2. [Review of probability theory](preliminaries/probabilityreview): Probability distributions. Conditional probability. Random variables (*under construction*).
 
