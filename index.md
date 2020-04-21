@@ -11,7 +11,7 @@ This course starts by introducing probabilistic graphical models from the very b
 
 ## Essays
 
-1. [High Leverage House-Keeping](preliminaries/introduction/): What is High leverage housekeeping? Overview of the course.
+1. [High Leverage House-Keeping](preliminaries/introduction/index.md): What is High leverage housekeeping? Overview of the course.
 
 2. [Review of probability theory](preliminaries/probabilityreview): Probability distributions. Conditional probability. Random variables (*under construction*).
 
